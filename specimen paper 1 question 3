@@ -1,0 +1,5 @@
+word= str(input())
+words= len(word)
+repeat= 30//words
+repeat= repeat+ 1
+print (words)
